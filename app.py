@@ -1,5 +1,6 @@
 print("Convert VB script below")
 
+
 """
 // -- settings 
 prd = 2 //Pivot Point Period
